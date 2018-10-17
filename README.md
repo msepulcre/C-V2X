@@ -1,5 +1,5 @@
 # Analytical Models of the Performance of C-V2X Mode 4 Vehicular Communications
-This code implements the analytical models of the communication performance of C-V2X or LTE-V Mode 4 described in the following paper:
+This code implements in Matlab the analytical models of the communication performance of C-V2X or LTE-V Mode 4 described in the following paper:
 
     Manuel Gonzalez-Martín, Miguel Sepulcre, Rafael Molina-Masegosa, Javier Gozalvez, 
     "Analytical Models of the Performance of C-V2X Mode 4 Vehicular Communications", 
