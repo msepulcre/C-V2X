@@ -5,9 +5,9 @@ This code implements in Matlab the analytical models of the communication perfor
     "Analytical Models of the Performance of C-V2X Mode 4 Vehicular Communications", 
     arXiv:1807.06508 [cs.NI], Submitted on 17 July 2018, https://arxiv.org/abs/1807.06508
 
-The paper presents analytical models for the average PDR (Packet Delivery Ratio) as a function of the distance between transmitter and receiver, and for the four different types of transmission errors that can be encountered in C-V2X or LTE-V Mode 4. The models have been validated for a wide range of transmission parameters and traffic densities by comparing the results obtained with the analytical models to those obtained with a C-V2X or LTE-V Mode 4 simulator implemented by the authors over the Veins simulation platform. 
+The paper presents analytical models for the average PDR (Packet Delivery Ratio) as a function of the distance between transmitter and receiver, and for the four different types of transmission errors that can be encountered in C-V2X Mode 4. The models are validated for a wide range of transmission parameters and traffic densities. To this aim, this study compares the results obtained with the analytical models to those obtained with a C-V2X Mode 4 simulator implemented over Veins. 
 
-CV2XMode4.m is the main script you have to run to get the PDR curve as a function of the distance for a given set of parameters, and the probability of each of the four transmission errors. This script is related to the rest of scripts as described in the following diagram:
+CV2XMode4.m is the main script you have to run to get the PDR and the probability of each of the four transmission errorscurve as a function of the distance between transmitter and receiver. This script is related to the rest of scripts as described in the following diagram:
 
      CV2XMode4.m
          |---->   CV2XMode4_common.m   ----> get_PL_SH.m, get_SINRdistribution.m, get_BLER.m
