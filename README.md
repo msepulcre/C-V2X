@@ -24,3 +24,4 @@ The resulting figures are stored in the ./fig folder.
 
 The equations in this code that appear in the paper are shown with their number in brackets so that they can be easily identified in the paper. 
 
+Feel free to contact Prof. Miguel Sepulcre (msepulcre@umh.es) if you are interested in collaborating on the evolution of these models. 
