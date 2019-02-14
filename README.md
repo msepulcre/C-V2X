@@ -3,7 +3,7 @@ This code implements in Matlab the analytical models of the communication perfor
 
     Manuel Gonzalez-Martín, Miguel Sepulcre, Rafael Molina-Masegosa, Javier Gozalvez, 
     "Analytical Models of the Performance of C-V2X Mode 4 Vehicular Communications", 
-    accepted in IEEE Transactions on Vehicular Technology, December 2018. DOI: 10.1109/TVT.2018.2888704
+    IEEE Transactions on Vehicular Technology, Vol. 68, Issue 2, Feb. 2019. DOI: 10.1109/TVT.2018.2888704
     Final version available at: https://ieeexplore.ieee.org/document/8581518
     Post-print version available at: https://arxiv.org/abs/1807.06508
 
