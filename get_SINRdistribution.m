@@ -8,9 +8,11 @@ function [ SINR , PDF_SINR ] =  get_SINRdistribution( Pr_dBm_avg , Pi_dBm_avg , 
 % CV2XMode4_Step2 and CV2XMode4_Step3 to model the communication performance 
 % of C-V2X or LTE-V Mode 4 using the analytical models described in:
 % 
-%    Manuel Gonzalez-Martín, Miguel Sepulcre, Rafael Molina-Masegosa, Javier Gozalvez, 
+%    Manuel Gonzalez-MartÃ­n, Miguel Sepulcre, Rafael Molina-Masegosa, Javier Gozalvez, 
 %    "Analytical Models of the Performance of C-V2X Mode 4 Vehicular Communications", 
-%    arXiv:1807.06508 [cs.NI], Submitted on 17 Jul 2018, https://arxiv.org/abs/1807.06508
+%    IEEE Transactions on Vehicular Technology, Vol. 68, Issue 2, Feb. 2019. DOI: 10.1109/TVT.2018.2888704
+%    Final version available at: https://ieeexplore.ieee.org/document/8581518
+%    Post-print version available at: https://arxiv.org/abs/1807.06508
 %
 % Input parameters:
 %   Pr_dBm_avg: average received power from the transmitting vehicle in dBm
