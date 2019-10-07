@@ -4,9 +4,11 @@ function run_all
 % the analytical models of the communication performance of C-V2X or LTE-V 
 % Mode 4 that are presented in the following paper:
 %
-%    Manuel Gonzalez-Martín, Miguel Sepulcre, Rafael Molina-Masegosa, Javier Gozalvez, 
+%    Manuel Gonzalez-MartÃ­n, Miguel Sepulcre, Rafael Molina-Masegosa, Javier Gozalvez, 
 %    "Analytical Models of the Performance of C-V2X Mode 4 Vehicular Communications", 
-%    arXiv:1807.06508 [cs.NI], Submitted on 17 July 2018, https://arxiv.org/abs/1807.06508
+%    IEEE Transactions on Vehicular Technology, Vol. 68, Issue 2, Feb. 2019. DOI: 10.1109/TVT.2018.2888704
+%    Final version available at: https://ieeexplore.ieee.org/document/8581518
+%    Post-print version available at: https://arxiv.org/abs/1807.06508
 %
 % CV2XMode4 is the main script to evaluate the models and the input parameters are:
 %    beta: traffic density in veh/m, e.g. 0.1.
